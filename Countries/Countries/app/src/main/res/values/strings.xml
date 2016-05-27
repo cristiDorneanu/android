@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="countries_from_europe">Countries from Europe</string>
+    <string name="list_countries">List Countries</string>
+</resources>
